@@ -1,0 +1,28 @@
+.l{
+    background-color:  #19232d;
+    border: 1px solid #19232d;
+    padding: 10px;
+    border-radius: 50%;
+}
+.j{
+    list-style-type: none;
+}
+@media screen and (max-width: 776px)
+{
+     img{
+        margin-left: 280px;
+     }
+     span{
+        margin-left: 180px;
+        text-align: center;
+     }
+}
+.bk{
+    color: #5a7184;
+}
+.bk1{
+    color: #959ead;
+}
+.bk2{
+    color: white;
+}

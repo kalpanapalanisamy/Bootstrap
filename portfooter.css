@@ -1,0 +1,27 @@
+.w{
+    color: #cced00;
+}
+.x{
+    color: #9aa5b1;
+}
+.z{
+    background-color: #001c32;
+}
+.c{
+    background-color: #0d2436;
+}
+.l{
+    color: #5a7184;
+}
+@media screen and (max-width:576.98px){
+  
+    .a1{
+        text-align:cenetr;
+       }
+   
+   }
+   .rad{
+   
+   border-radius: 50px;
+   }
+  

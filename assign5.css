@@ -1,0 +1,33 @@
+.body{
+    background-image: url("https://webunwto.s3.eu-west-1.amazonaws.com/2022-01/making-tourism-stronger-and-ready-for-the-future_0.jpg?VersionId=TVw01pVgj36eqWdGc4MwtC25QZwk4hcB");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div_one{
+    background-color: white;
+    margin: 40px;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+.div_two{
+    margin-bottom: 20px;
+}
+.parah{
+    margin-left: 40px;
+}
+button{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.m{
+  margin-top: 20px;
+}

@@ -1,0 +1,15 @@
+*{
+    font-family: BreeSerif;
+}
+.body{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/codingbg.png");
+    background-size: cover;
+}
+.background{
+    background-color: #00000080;
+    border: 3px solid #48ee59;
+    height: 300px;
+    width: 300px;
+    margin-top: 200px;
+    padding: 45px;
+}

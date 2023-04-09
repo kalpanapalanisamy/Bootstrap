@@ -1,0 +1,25 @@
+.body{
+    background-image: url("https://cdn.pixabay.com/photo/2020/06/16/15/49/catholic-church-5306333_960_720.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.div_one{
+    background-color: white;
+    margin: 40px;
+    border-radius: 10px;
+}
+h1{
+    color: white;
+}
+img{
+    width: 80px;
+    height: 100px;
+    margin-bottom: 70px;
+}
+.div_two{
+    margin-bottom: 70px;
+}
+.m{
+  margin-top: 20px;
+}

@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Mono:ital,wght@0,300;1,400&display=swap');
+body{
+    background-color: #e6f6ff;
+}
+.im{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png");
+    background-size: cover;
+    height: 100px;
+}
+.sonu{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+.mg1{
+   margin-top: 20px;
+}
