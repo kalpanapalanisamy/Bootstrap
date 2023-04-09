@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto+Mono:ital,wght@0,300;1,400&display=swap');
+body{
+    background-color: gray;
+}
+.div1{
+    background-color: white;
+    width: 800px;
+    height: 650px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.h{
+    border: 2px solid black;
+    margin-top: -15px;
+}
+h1{
+    font-size: 80px;
+    letter-spacing: 6px;
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: -10px;
+}
+.p1{
+    margin-top: -10px;
+    font-size: 20px;
+}
+h2{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
+.p{
+    font-weight: bolder;
+    float: right;
+}
+.hr{
+   border: 1px solid ;
+}
+.p2{
+    column-count: 3;
+}
+.spn{
+    column-span: all;
+    font-size: 25px;
+    font-weight: bold;
+}
+.spn2{
+    color: white;
+}
+.spn3{
+    color: black;
+    font-weight: bold;
+}

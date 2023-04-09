@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+h1{
+    letter-spacing: 20px;
+    font-size: 60px;
+    text-align: center;
+    margin-top: 300px;
+}
+.div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    bottom: 130px;
+    left: 400px;
+    animation-name: task;
+    animation-duration: 5s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+}
+@keyframes task{
+    from{
+        left: 800px;
+    }
+    to{
+        right: 200px;
+    }
+    
+}

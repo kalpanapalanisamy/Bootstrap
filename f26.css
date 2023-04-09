@@ -1,0 +1,35 @@
+body{
+    background-image: linear-gradient(to right, yellow, orange, red 40%);
+}
+.container{
+    background-image: linear-gradient(to right, orange , red 40%);
+    height: 300px;
+    width: 300px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 3px 3px orange;
+    z-index: 2;
+    position: relative;
+    top: 195px;
+    left: 280px;
+}
+.container1{
+    height: 300px;
+    width: 400px;
+    background-color: white;
+    border-radius: 20px;
+    padding-left: 380px;
+    padding-top: 50px;
+    z-index: 1;
+    position: relative;
+    top: -135px;
+    left: 350px;
+    box-shadow:  5px 5px 3px 3px white;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-image: linear-gradient(to right, orange 5%, red);
+    border-radius: 40px;
+    border: solid orange;
+    padding: 10px 30px;
+    color: white;
+}
